@@ -1,6 +1,4 @@
 ### Olá! Eu sou a Larissa Bandeira :)
-##
-
 🧑‍🎓 Dev Júnior em Treinamento 🧑‍🎓
 
 - 🌱 Estudando Java, JavaScript, React.js
