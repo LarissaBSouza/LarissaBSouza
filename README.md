@@ -15,7 +15,7 @@ Meu foco principal é o desenvolvimento **Backend**, com experiência sólida em
 * **Linguagem:** Java (versões 8 à 21)
 * **Frameworks:** Spring Boot, Spring MVC
 * **Testes:** JUnit, Mockito
-* **Build & Dependências:** Maven
+* **Build & Dependências:** Maven, Gradle
 * **Banco de Dados:** H2, JDBC
 * **Conceitos:** Lambdas, Streams, Records, Estrutura de Dados, API REST
 ---
